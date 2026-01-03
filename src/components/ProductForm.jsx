@@ -70,7 +70,7 @@ export default function ProductForm({ onSubmit, editingProduct, onCancel }) {
 
   return (
     <form
-      className="form product-form"
+      className="form "
       onSubmit={submit}
       autoComplete="off"
     >
