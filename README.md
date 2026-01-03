@@ -140,9 +140,8 @@ Visit the local development URL shown in the terminal (usually http://localhost:
 The application is deployed and accessible via the following link:
 
 👉 Live Demo:
-<PASTE YOUR DEPLOYED LINK HERE>
+https://grey-scientific-frontend-assignment.vercel.app
 
-(Vercel / Netlify / Render as per assignment instructions)
 
 
 ---
